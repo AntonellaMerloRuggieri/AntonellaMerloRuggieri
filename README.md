@@ -20,7 +20,7 @@ https://github.com/AntonellaMerloRuggieri/BugReports
 
 📝 Skills:
 - SQL
-- React
 - Java
-- Javascript
+- JavaScript
+- React
 
