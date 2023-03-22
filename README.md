@@ -13,7 +13,7 @@
 
 💻 I'm currently practising on my own by creating user stories, test cases and bug reports. You can check them here: https://antomerloruggieri.atlassian.net/jira/software/projects/AB/boards/1
 
-<br> </br>
+<br>
 
 📝 Skills:
 - SQL
