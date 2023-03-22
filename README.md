@@ -7,11 +7,12 @@
 
 🎓 I'm studying to be a QA/QC Manual and I'd like to learn Automation aswell
 
-🇺🇳 B2 - Upper Intermediate
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 B2 - Upper Intermediate
 
 💻 Working from home
 
 👩🏻‍ She/her
+
 
 
 📝 Skills:
