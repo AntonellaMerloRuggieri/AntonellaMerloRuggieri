@@ -1,4 +1,4 @@
-### Hi there I'm Antonella and I'm studying to be a QA/QC Manual 👋
+### Hi there 👋 I'm Antonella a QA/QC Manual Junior.
 
 <!--
 **AntonellaMerloRuggieri/AntonellaMerloRuggieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
