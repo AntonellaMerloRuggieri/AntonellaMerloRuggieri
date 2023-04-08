@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Antonella a QA Manual
+### Hi there 👋 I'm Antonella, a manual QA (Quality Assurance) specialist.
 
 <!--
 **AntonellaMerloRuggieri/AntonellaMerloRuggieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
