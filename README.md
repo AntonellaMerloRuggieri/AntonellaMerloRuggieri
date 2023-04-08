@@ -5,15 +5,16 @@
 
 -->
 
-🎓 I'm studying to be a QA/QC Manual and I'd like to learn Automation aswell
+🎓 I'm a QA Manual and I'd like to learn Automation aswell
 
 ✔️󠁧󠁢󠁥󠁮󠁧󠁿 B2 - Upper Intermediate
 
 👩🏻‍ She/her
 
-💻 I'm currently practising on my own by creating user stories, test cases and bug reports. You can check them here: https://antomerloruggieri.atlassian.net/jira/software/projects/AB/boards/1
+💻 Jira:
+https://antomerloruggieri.atlassian.net/jira/software/projects/AB/boards/1
 
-❗ I'm also practising by doing exploratory tests in different websites and reporting them. You can check them here:
+❗ Exploratory tests:
 https://github.com/AntonellaMerloRuggieri/BugReports
 
 <br>
