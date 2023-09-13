@@ -27,6 +27,7 @@ English version:
 
 📝 Skills:
 - SQL / PL SQL
+- HTML & CSS
 - Python
 - Jira
 - Postman
