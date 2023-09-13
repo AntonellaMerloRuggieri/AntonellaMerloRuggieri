@@ -11,22 +11,16 @@
 
 💻 Jira:
 
-[Spanish version]
+Spanish version: https://antomerloruggieri.atlassian.net/jira/software/projects/AB/boards/1
 
-https://antomerloruggieri.atlassian.net/jira/software/projects/AB/boards/1
-
-
-[English version]
+English version:
 
 
 ❗ Exploratory tests:
 
-[Spanish version]
+Spanish version: https://github.com/AntonellaMerloRuggieri/BugReports
 
-https://github.com/AntonellaMerloRuggieri/BugReports
-
-
-[English version]
+English version:
 
 
 <br>
