@@ -16,6 +16,7 @@ Spanish version: https://antomerloruggieri.atlassian.net/jira/software/projects/
 English version:
 
 
+
 ❗ Exploratory tests:
 
 Spanish version: https://github.com/AntonellaMerloRuggieri/BugReports
