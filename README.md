@@ -19,9 +19,8 @@ English version:
 
 ❗ Exploratory tests:
 
-Spanish version: https://github.com/AntonellaMerloRuggieri/BugReports
+Spanish & English version: https://github.com/AntonellaMerloRuggieri/BugReports
 
-English version:
 
 
 <br>
