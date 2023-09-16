@@ -19,7 +19,7 @@ English version:
 
 ❗ Exploratory tests:
 
-Spanish & English version: https://github.com/AntonellaMerloRuggieri/BugReports
+Spanish & English versions: https://github.com/AntonellaMerloRuggieri/BugReports
 
 
 
